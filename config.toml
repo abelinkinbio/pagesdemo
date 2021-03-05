@@ -1,7 +1,6 @@
-baseURL = "http://abelinkinbio.co/"
+baseurl = "/"
 languageCode = "en-us"
-title = "abelinkinbio"
-
+theme = "terminal"
 paginate = 5
 
 [params]
@@ -71,4 +70,3 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
-theme = "terminal"
